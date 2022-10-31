@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa09d194.css",
-    "main.js": "/static/js/main.38c62ae7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/checkbox-checked.svg": "/static/media/checkbox-checked.60d6b02e20aade57ea3e.svg",
-    "index.html": "/index.html",
-    "static/media/checkbox.svg": "/static/media/checkbox.342b852c158005850ecd.svg",
-    "main.aa09d194.css.map": "/static/css/main.aa09d194.css.map",
-    "main.38c62ae7.js.map": "/static/js/main.38c62ae7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/to-do-app/static/css/main.dc1d3929.css",
+    "main.js": "/to-do-app/static/js/main.b16b74c2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/to-do-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/checkbox-checked.svg": "/to-do-app/static/media/checkbox-checked.60d6b02e20aade57ea3e.svg",
+    "index.html": "/to-do-app/index.html",
+    "static/media/checkbox.svg": "/to-do-app/static/media/checkbox.342b852c158005850ecd.svg",
+    "main.dc1d3929.css.map": "/to-do-app/static/css/main.dc1d3929.css.map",
+    "main.b16b74c2.js.map": "/to-do-app/static/js/main.b16b74c2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/to-do-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa09d194.css",
-    "static/js/main.38c62ae7.js"
+    "static/css/main.dc1d3929.css",
+    "static/js/main.b16b74c2.js"
   ]
 }
